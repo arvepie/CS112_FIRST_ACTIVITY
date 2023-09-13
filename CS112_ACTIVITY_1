@@ -1,0 +1,7 @@
+print('Complete Name:' 'Rashid Paporo')
+print('Course:' 'Computer Science')
+print('Section:' 'BSCS-1E')
+print('Age:' '20')
+print('Birthday:' 'April 14, 2000')
+print('Complete Home Address:' 'Upper Bulua Zone 8, CDOC')
+
